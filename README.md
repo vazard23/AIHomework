@@ -32,5 +32,15 @@ h5py
 
 PIL / SciPy
 
+🤖 Also, i used AI-tools to help me on some of the tasks like: 
+
+Understand and explain neural network concepts
+
+Debug Python functions
+
+Refactor and comment the code
+
+Generate markdown explanations and visualizations
+
 📂 Dataset
-The dataset consists of images labeled as "cat" or "non-cat", stored in HDF5 format (train_catvnoncat.h5 and test_catvnoncat.h5).
+The dataset consists of images labeled as "cat" or "non-cat", stored in HDF5 format.
